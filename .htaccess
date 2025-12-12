@@ -1,0 +1,11 @@
+# .htaccess для GitHub Pages (совместимый)
+# Этот файл нужен для будущих настроек, пока оставляем пустым
+
+# Пример редиректа (если понадобится позже):
+# Redirect 301 /old-page.html https://iugfigogiogj.github.io/zveropolisapk/
+
+# Заголовки безопасности (опционально)
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set X-Frame-Options "DENY"
+</IfModule>
