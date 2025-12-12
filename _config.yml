@@ -1,0 +1,9 @@
+title: "Zveropolis APK"
+description: "Download Zveropolis APK for Android"
+baseurl: ""  # для репозитория zveropolisapk
+url: "https://iugfigogiogj.github.io"
+theme: minima  # стандартная тема GitHub Pages
+
+# Отключаем обработку Jekyll, если не нужно
+safe: false
+include: [".htaccess"]
